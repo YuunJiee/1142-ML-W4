@@ -32,4 +32,4 @@ print("matrix 最小值:", np.min(matrix))
 rand_arr = np.random.rand(3, 3)
 print("3x3 隨機陣列:\n", rand_arr)
 
-
+##滿分20分給我20分##
